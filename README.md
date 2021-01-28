@@ -1,0 +1,1 @@
+# -ngilizce-T-rk-e-Kelime-Defteri-S-zl-k
