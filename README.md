@@ -1,1 +1,1 @@
-# -ngilizce-T-rk-e-Kelime-Defteri-S-zl-k
+# Ingilizce-Turkce-Kelime-Defteri-Sozluk (English-Turkish Vocabulary Exercises and Dictionary)
