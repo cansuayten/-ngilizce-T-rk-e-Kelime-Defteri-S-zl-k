@@ -1,8 +1,12 @@
 # Ingilizce-Turkce-Kelime-Defteri-Sozluk (English-Turkish Vocabulary Exercises and Dictionary) ---- Kotlin & Java
 Giriş Sayfası:
 ![1](https://user-images.githubusercontent.com/44004959/124678943-40653000-decc-11eb-8723-e8244a08f03e.PNG)
+
+
 Anasayfa:
 ![2](https://user-images.githubusercontent.com/44004959/124678964-4b1fc500-decc-11eb-8eb6-46d912cd852d.PNG)
+
+
 Ara Sayfası:
 ![3](https://user-images.githubusercontent.com/44004959/124678993-570b8700-decc-11eb-819c-817ab021bb6c.PNG)
 Çalış Sayfası Alıştırma Seçenekleri:
